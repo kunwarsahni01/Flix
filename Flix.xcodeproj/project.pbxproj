@@ -14,7 +14,7 @@
 		9784947A23DE087600503B3F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9784947823DE087600503B3F /* LaunchScreen.storyboard */; };
 		9784948523DE087600503B3F /* FlixTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9784948423DE087600503B3F /* FlixTests.swift */; };
 		9784949023DE087600503B3F /* FlixUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9784948F23DE087600503B3F /* FlixUITests.swift */; };
-		9784949F23DE0A1E00503B3F /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9784949E23DE0A1E00503B3F /* MoviesViewController.swift */; };
+		978494A023DE0EC900503B3F /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9784949E23DE0A1E00503B3F /* MoviesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -261,7 +261,7 @@
 			files = (
 				9784946E23DE087300503B3F /* AppDelegate.swift in Sources */,
 				9784947023DE087300503B3F /* SceneDelegate.swift in Sources */,
-				9784949F23DE0A1E00503B3F /* MoviesViewController.swift in Sources */,
+				978494A023DE0EC900503B3F /* MoviesViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
